@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671900172138",
+    "project_id": "amacle-hotel-web-new",
+    "storage_bucket": "amacle-hotel-web-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671900172138:android:ef6d0b23aee3e7235e6f13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hotel_management_webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671900172138-fv13op1miq7ho6km2aptguu6lak4umcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDId9qgO-dr3lc8xF_bhJ4DILKgTK0Xr1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671900172138-fv13op1miq7ho6km2aptguu6lak4umcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671900172138-ame9f8fqas11vcddlc9kfphueq1jfire.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterHotelManagementWebapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
